@@ -4,3 +4,4 @@ Hello World!
 Line from User2
 Line from User1
 Some change from User1
+Line from User1 - lesson about rebase
